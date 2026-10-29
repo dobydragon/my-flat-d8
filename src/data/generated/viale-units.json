@@ -1,0 +1,214 @@
+{
+ "units": [
+  {
+   "id": "8D-G04",
+   "block": "8D",
+   "type": "D",
+   "floorKind": "ground",
+   "position": "04",
+   "page": 96,
+   "titleCode": "8D-G04",
+   "printedCode": "8D-G04",
+   "printedBlock": "8D",
+   "grossArea": 79,
+   "gardenArea": 16,
+   "bedrooms": 1,
+   "rooms": [
+    {
+     "no": 1,
+     "name": "CORRIDOR",
+     "dims": [
+      2.95,
+      1.3
+     ],
+     "netArea": 3.84
+    },
+    {
+     "no": 2,
+     "name": "KITCHEN",
+     "dims": [
+      2.2,
+      2
+     ],
+     "netArea": 4.4
+    },
+    {
+     "no": 3,
+     "name": "LIVING & DINING",
+     "dims": [
+      5.9,
+      3.8
+     ],
+     "netArea": 22.42
+    },
+    {
+     "no": 4,
+     "name": "TERRACE",
+     "dims": [
+      2.3,
+      1.35
+     ],
+     "netArea": 3.1
+    },
+    {
+     "no": 5,
+     "name": "LOBBY",
+     "dims": [
+      1.2,
+      1.2
+     ],
+     "netArea": 1.44
+    },
+    {
+     "no": 6,
+     "name": "BEDROOM",
+     "dims": [
+      4.1,
+      3.5
+     ],
+     "netArea": 14.35
+    },
+    {
+     "no": 7,
+     "name": "BATHROOM",
+     "dims": [
+      2.8,
+      2.2
+     ],
+     "netArea": 6.16
+    }
+   ],
+   "netRoomsTotal": 55.71,
+   "plan": {
+    "image": "plans/8D-G04.jpg",
+    "w": 589,
+    "h": 497
+   },
+   "flags": [],
+   "plateRects": [
+    [
+     0.7,
+     0.6968,
+     0.921,
+     0.9596
+    ],
+    [
+     0.7,
+     0.5984,
+     0.7249,
+     0.6968
+    ]
+   ],
+   "positionConfirmed": true,
+   "flagsAr": []
+  },
+  {
+   "id": "8D-104",
+   "block": "8D",
+   "type": "D",
+   "floorKind": "typical",
+   "position": "04",
+   "page": 102,
+   "titleCode": "8D-104",
+   "printedCode": "8D-104",
+   "printedBlock": "8D",
+   "grossArea": 79,
+   "gardenArea": null,
+   "bedrooms": 1,
+   "rooms": [
+    {
+     "no": 1,
+     "name": "CORRIDOR",
+     "dims": [
+      2.95,
+      1.3
+     ],
+     "netArea": 3.84
+    },
+    {
+     "no": 2,
+     "name": "KITCHEN",
+     "dims": [
+      2.2,
+      2
+     ],
+     "netArea": 4.4
+    },
+    {
+     "no": 3,
+     "name": "LIVING & DINING",
+     "dims": [
+      5.9,
+      3.8
+     ],
+     "netArea": 22.42
+    },
+    {
+     "no": 4,
+     "name": "TERRACE",
+     "dims": [
+      2.3,
+      1.35
+     ],
+     "netArea": 3.1
+    },
+    {
+     "no": 5,
+     "name": "LOBBY",
+     "dims": [
+      1.2,
+      1.2
+     ],
+     "netArea": 1.44
+    },
+    {
+     "no": 6,
+     "name": "BEDROOM",
+     "dims": [
+      4.1,
+      3.5
+     ],
+     "netArea": 14.35
+    },
+    {
+     "no": 7,
+     "name": "BATHROOM",
+     "dims": [
+      2.8,
+      2.2
+     ],
+     "netArea": 6.16
+    }
+   ],
+   "netRoomsTotal": 55.71,
+   "plan": {
+    "image": "plans/8D-104.jpg",
+    "w": 524,
+    "h": 497
+   },
+   "flags": [],
+   "plateRects": [
+    [
+     0.6871,
+     0.7535,
+     0.8229,
+     0.9632
+    ],
+    [
+     0.687,
+     0.6547,
+     0.7115,
+     0.7534
+    ],
+    [
+     0.8229,
+     0.7534,
+     0.8692,
+     0.8794
+    ]
+   ],
+   "positionConfirmed": true,
+   "flagsAr": []
+  }
+ ]
+}
